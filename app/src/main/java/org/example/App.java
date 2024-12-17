@@ -1,14 +1,13 @@
-/*
- * This should be your main class where all your objects will be created
- */
 package org.example;
 
 public class App {
-    public String getGreeting() {
-        return "Hello World!";
-    }
-
     public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
+      Library library =new Library();
+      library.addBook(new Book("CockCrow"));
+      library.addBook(new Book("Aki-ola Mathematics"));
+      library.addBook(new Book("harry potter"));
+      Patron patron=new Patron("Lucius");
+      System.out.println(patron.getName());
+
     }
 }
