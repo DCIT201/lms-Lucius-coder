@@ -1,27 +1,25 @@
 package org.example;
 
-public class  Book {
+public class Book {
     private String title;
-    private boolean isAvailable;
+    private String author;
+    private int yearPublished;
 
-    public Book(String title) {
+    public Book(String title, String author, int yearPublished) {
         this.title = title;
-        this.isAvailable = true;
+        this.author = author;
+        this.yearPublished = yearPublished;
     }
 
     public String getTitle() {
         return title;
     }
 
-    public boolean isAvailable() {
-        return isAvailable;
+    public String getAuthor() {
+        return author;
     }
 
-    public void borrow() {
-        isAvailable = false;
-    }
-
-    public void returnBook() {
-        isAvailable = true;
+    public int getYearPublished() {
+        return yearPublished;
     }
 }

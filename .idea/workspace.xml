@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d242652b-628e-4e6e-9a38-914d882cbd09" name="Changes" comment="assignment for lms">
+    <list default="true" id="d242652b-628e-4e6e-9a38-914d882cbd09" name="Changes" comment="assignment for lms system">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/example/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/org/example/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/example/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/org/example/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/example/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/org/example/Patron.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/org/example/Patron.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,35 +37,35 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Lucius-coder"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Lucius-coder&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/DCIT201/lms-Lucius-coder",
-    "accountId": "d396252e-85be-4db7-aec2-d51659fa798f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DCIT201/lms-Lucius-coder&quot;,
+    &quot;accountId&quot;: &quot;d396252e-85be-4db7-aec2-d51659fa798f&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2qM3j5PATaXw4iVqGX5ojBXvJ8I" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/lucius/IdeaProjects/lms-Lucius-coder"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/lucius/IdeaProjects/lms-Lucius-coder&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
@@ -178,6 +180,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="assignment" />
     <MESSAGE value="assignment for lms" />
-    <option name="LAST_COMMIT_MESSAGE" value="assignment for lms" />
+    <MESSAGE value="assignment for lms system" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment for lms system" />
   </component>
 </project>
