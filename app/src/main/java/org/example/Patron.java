@@ -3,7 +3,7 @@ package org.example;
 public class Patron {
     private String name;
 
-    public Patron(String name) {
+    public Patron(String name)    {
         this.name = name;
             }
 
