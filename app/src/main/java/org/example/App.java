@@ -1,7 +1,7 @@
 package org.example;
 
 public class App {
-    public static void main(String[] args) {
+      public static void main(String[] args) {
       Library library =new Library();
       library.addBook(new Book("CockCrow"));
       library.addBook(new Book("Aki-ola Mathematics"));
